@@ -1,0 +1,28 @@
+body{
+    padding: 20px;
+    margin: 0px 50px;
+    font-family: "Roboto", sans-serif;
+}
+
+p{
+    font-size: 15px;
+}
+
+.navbar {
+    font-family: sans-serif; 
+    font-size: 15px;
+}
+
+.navbar a { 
+    margin: 0px 20px 0px 0px;
+    text-decoration: none;
+    color: black; 
+}
+
+.navbar a.current{
+    text-decoration: underline;
+}
+
+.navbar a:hover { 
+    font-weight: bolder; 
+}
